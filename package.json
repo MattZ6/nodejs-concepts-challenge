@@ -1,8 +1,16 @@
 {
-  "name": "desafio",
+  "private": true,
+  "name": "nodejs-concepts-challenge",
+  "description": "NodeJS concepts challenge for Ignite Bootcamp",
   "version": "1.0.0",
   "main": "src/server.js",
   "license": "MIT",
+  "author": {
+    "name": "Matheus Felipe Zanin",
+    "url": "https://github.com/mattz6"
+  },
+  "repository": "https://github.com/mattz6/nodejs-concepts-challenge",
+  "bugs": "https://github.com/mattz6/nodejs-concepts-challenge/issues",
   "scripts": {
     "dev": "nodemon",
     "test": "jest"
